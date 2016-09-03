@@ -5,7 +5,7 @@ osu!web
 
 La futura cara de osu!.
 
-Requirements
+Requerimientos
 ------------
 
 [Vagrant 1.7+](http://www.vagrantup.com/downloads.html) or equivalent development environment.
@@ -21,7 +21,7 @@ Deploying
 
 *Note that you can get things running without vagrant. It should be pretty straightforward, but if you run into problems don't hesitate to open an issue asking for help!*
 
-### Creating user
+### Creando usuario
 
     c:\osuweb\vagrant> vagrant ssh
     $ cd /data/osu\!web
